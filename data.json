@@ -6,6 +6,7 @@
         {
             "tag": "1.21.2-rc.1",
             "latest": false,
+            "prerelease": true,
             "assets": [
                 {
                     "name": "overviewer-1.21.2-rc.1-windows.zip",
@@ -48,12 +49,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 1,
-            "prerelease": true
+            "totalDownloads": 1
         },
         {
             "tag": "1.21.1",
             "latest": true,
+            "prerelease": false,
             "assets": [
                 {
                     "name": "overviewer-v1.21.1-windows.zip",
@@ -86,12 +87,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 124,
-            "prerelease": false
+            "totalDownloads": 124
         },
         {
             "tag": "1.21.0",
             "latest": false,
+            "prerelease": false,
             "assets": [
                 {
                     "name": "overviewer-v1.21.0-windows.zip",
@@ -124,12 +125,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 751,
-            "prerelease": false
+            "totalDownloads": 751
         },
         {
             "tag": "v1.20.4",
             "latest": false,
+            "prerelease": false,
             "assets": [
                 {
                     "name": "overviewer-v1.20.4.zip",
@@ -152,12 +153,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 617,
-            "prerelease": false
+            "totalDownloads": 617
         },
         {
             "tag": "v1.20.3",
             "latest": false,
+            "prerelease": false,
             "assets": [
                 {
                     "name": "overviewer-v1.20.3.zip",
@@ -175,12 +176,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 377,
-            "prerelease": false
+            "totalDownloads": 377
         },
         {
             "tag": "v1.20.2",
             "latest": false,
+            "prerelease": false,
             "assets": [
                 {
                     "name": "overviewer-v1.20.2.zip",
@@ -198,12 +199,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 52,
-            "prerelease": false
+            "totalDownloads": 52
         },
         {
             "tag": "v1.20.1",
             "latest": false,
+            "prerelease": false,
             "assets": [
                 {
                     "name": "overviewer-v1.20.1.zip",
@@ -221,12 +222,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 123,
-            "prerelease": false
+            "totalDownloads": 123
         },
         {
             "tag": "v1.20",
             "latest": false,
+            "prerelease": false,
             "assets": [
                 {
                     "name": "overviewer-v1.20.zip",
@@ -244,12 +245,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 26,
-            "prerelease": false
+            "totalDownloads": 26
         },
         {
             "tag": "v1.19.3.2",
             "latest": false,
+            "prerelease": true,
             "assets": [
                 {
                     "name": "overviewer-1.19.3.2.zip",
@@ -267,12 +268,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 22,
-            "prerelease": true
+            "totalDownloads": 22
         },
         {
             "tag": "v1.19.3.1",
             "latest": false,
+            "prerelease": true,
             "assets": [
                 {
                     "name": "overviewer-1.19.3.zip",
@@ -290,12 +291,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 13,
-            "prerelease": true
+            "totalDownloads": 13
         },
         {
             "tag": "v1.19.3",
             "latest": false,
+            "prerelease": true,
             "assets": [
                 {
                     "name": "overviewer-1.19.3.zip",
@@ -313,12 +314,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 5,
-            "prerelease": true
+            "totalDownloads": 5
         },
         {
             "tag": "v1.19.1",
             "latest": false,
+            "prerelease": true,
             "assets": [
                 {
                     "name": "overviewer-1.19.1.zip",
@@ -336,12 +337,12 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 9,
-            "prerelease": true
+            "totalDownloads": 9
         },
         {
             "tag": "v1.19.15",
             "latest": false,
+            "prerelease": true,
             "assets": [
                 {
                     "name": "overviewer-0.19.15.zip",
@@ -359,8 +360,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 17,
-            "prerelease": true
+            "totalDownloads": 17
         }
     ]
 }
