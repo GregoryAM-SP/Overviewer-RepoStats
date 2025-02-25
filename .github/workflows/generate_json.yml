@@ -14,7 +14,6 @@ permissions:
 jobs:
   update_data:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -52,13 +51,11 @@ jobs:
           def fetch_release_data():
               url = f"https://api.github.com/repos/{REPO}/releases"
               releases = requests.get(url, headers=HEADERS).json()
-
               tags = []
               for release in releases:
                   tag_name = release["tag_name"]
                   assets = []
                   total_downloads = 0
-
                   for asset in release["assets"]:
                       asset_data = {
                           "name": asset["name"],
@@ -67,7 +64,6 @@ jobs:
                       }
                       assets.append(asset_data)
                       total_downloads += asset["download_count"]
-
                   assets.append({
                       "name": f"the-minecraft-overviewer-{tag_name}.zip",
                       "url": f"https://github.com/gregoryam-sp/the-minecraft-overviewer/archive/refs/tags/{tag_name}.zip",
@@ -78,14 +74,14 @@ jobs:
                       "url": f"https://github.com/gregoryam-sp/the-minecraft-overviewer/archive/refs/tags/{tag_name}.tar.gz",
                       "download_count": 0
                   })
-
+                  is_latest = release["tag_name"] == releases[0]["tag_name"] and not release.get("prerelease", False)
                   tags.append({
                       "tag": tag_name,
-                      "latest": release["tag_name"] == releases[0]["tag_name"],
+                      "latest": is_latest,  # Set latest to false if it's a prerelease
                       "assets": assets,
-                      "totalDownloads": total_downloads
+                      "totalDownloads": total_downloads,
+                      "prerelease": release.get("prerelease", False)
                   })
-
               return tags
 
           data = fetch_repo_stats()
@@ -107,7 +103,6 @@ jobs:
   check_api_usage:
     runs-on: ubuntu-latest
     needs: update_data
-
     steps:
       - name: Check GitHub API Rate Limit
         env:
@@ -126,7 +121,6 @@ jobs:
           remaining = response["rate"]["remaining"]
           reset_time_epoch = response["rate"]["reset"]
 
-          # Convert to 12-hour format (AM/PM) and MM/DD/YYYY
           reset_time_utc = datetime.fromtimestamp(reset_time_epoch, tz=timezone.utc).strftime('%m/%d/%Y %I:%M:%S %p UTC')
 
           print(f"GitHub API Requests Used: {used}")
