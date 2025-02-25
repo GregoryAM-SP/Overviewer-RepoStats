@@ -53,7 +53,7 @@
         },
         {
             "tag": "1.21.1",
-            "latest": false,
+            "latest": true,
             "assets": [
                 {
                     "name": "overviewer-v1.21.1-windows.zip",
