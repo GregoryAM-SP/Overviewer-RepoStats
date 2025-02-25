@@ -86,9 +86,9 @@ jobs:
                   tags.append({
                       "tag": tag_name,
                       "latest": is_latest,
+                      "prerelease": release.get("prerelease", False)
                       "assets": assets,
                       "totalDownloads": total_downloads,
-                      "prerelease": release.get("prerelease", False)
                   })
               return tags
 
