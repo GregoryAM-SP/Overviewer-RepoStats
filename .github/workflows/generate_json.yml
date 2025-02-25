@@ -52,6 +52,14 @@ jobs:
               url = f"https://api.github.com/repos/{REPO}/releases"
               releases = requests.get(url, headers=HEADERS).json()
               tags = []
+              
+              # Find the latest non-prerelease release
+              latest_release_tag = None
+              for release in releases:
+                  if not release.get("prerelease", False):
+                      latest_release_tag = release["tag_name"]
+                      break
+
               for release in releases:
                   tag_name = release["tag_name"]
                   assets = []
@@ -74,10 +82,10 @@ jobs:
                       "url": f"https://github.com/gregoryam-sp/the-minecraft-overviewer/archive/refs/tags/{tag_name}.tar.gz",
                       "download_count": 0
                   })
-                  is_latest = release["tag_name"] == releases[0]["tag_name"] and not release.get("prerelease", False)
+                  is_latest = (tag_name == latest_release_tag)
                   tags.append({
                       "tag": tag_name,
-                      "latest": is_latest,  # Set latest to false if it's a prerelease
+                      "latest": is_latest,
                       "assets": assets,
                       "totalDownloads": total_downloads,
                       "prerelease": release.get("prerelease", False)
