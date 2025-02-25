@@ -5,7 +5,7 @@
     "tags": [
         {
             "tag": "1.21.2-rc.1",
-            "latest": true,
+            "latest": false,
             "assets": [
                 {
                     "name": "overviewer-1.21.2-rc.1-windows.zip",
@@ -48,7 +48,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 1
+            "totalDownloads": 1,
+            "prerelease": true
         },
         {
             "tag": "1.21.1",
@@ -85,7 +86,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 124
+            "totalDownloads": 124,
+            "prerelease": false
         },
         {
             "tag": "1.21.0",
@@ -122,7 +124,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 751
+            "totalDownloads": 751,
+            "prerelease": false
         },
         {
             "tag": "v1.20.4",
@@ -149,7 +152,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 617
+            "totalDownloads": 617,
+            "prerelease": false
         },
         {
             "tag": "v1.20.3",
@@ -171,7 +175,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 377
+            "totalDownloads": 377,
+            "prerelease": false
         },
         {
             "tag": "v1.20.2",
@@ -193,7 +198,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 52
+            "totalDownloads": 52,
+            "prerelease": false
         },
         {
             "tag": "v1.20.1",
@@ -215,7 +221,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 123
+            "totalDownloads": 123,
+            "prerelease": false
         },
         {
             "tag": "v1.20",
@@ -237,7 +244,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 26
+            "totalDownloads": 26,
+            "prerelease": false
         },
         {
             "tag": "v1.19.3.2",
@@ -259,7 +267,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 22
+            "totalDownloads": 22,
+            "prerelease": true
         },
         {
             "tag": "v1.19.3.1",
@@ -281,7 +290,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 13
+            "totalDownloads": 13,
+            "prerelease": true
         },
         {
             "tag": "v1.19.3",
@@ -303,7 +313,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 5
+            "totalDownloads": 5,
+            "prerelease": true
         },
         {
             "tag": "v1.19.1",
@@ -325,7 +336,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 9
+            "totalDownloads": 9,
+            "prerelease": true
         },
         {
             "tag": "v1.19.15",
@@ -347,7 +359,8 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 17
+            "totalDownloads": 17,
+            "prerelease": true
         }
     ]
 }
