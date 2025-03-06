@@ -36,7 +36,7 @@
                 {
                     "name": "overviewer-1.21.2-rc.2-x86_64.AppImage",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.2-rc.2/overviewer-1.21.2-rc.2-x86_64.AppImage",
-                    "download_count": 3
+                    "download_count": 4
                 },
                 {
                     "name": "the-minecraft-overviewer-1.21.2-rc.2.zip",
@@ -49,7 +49,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 3
+            "totalDownloads": 4
         },
         {
             "tag": "1.21.2-rc.1",
