@@ -11,7 +11,7 @@
                 {
                     "name": "overviewer-1.21.2-rc.2-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.2-rc.2/overviewer-1.21.2-rc.2-windows.zip",
-                    "download_count": 45
+                    "download_count": 46
                 },
                 {
                     "name": "overviewer-1.21.2-rc.2-linux.tar.xz",
@@ -49,7 +49,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 77
+            "totalDownloads": 78
         },
         {
             "tag": "1.21.2-rc.1",
