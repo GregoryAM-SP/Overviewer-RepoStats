@@ -21,7 +21,7 @@
                 {
                     "name": "overviewer-1.21.2-rc.2-x86_64-ubuntu-24.04.deb",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.2-rc.2/overviewer-1.21.2-rc.2-x86_64-ubuntu-24.04.deb",
-                    "download_count": 9
+                    "download_count": 11
                 },
                 {
                     "name": "overviewer-1.21.2-rc.2-x86_64-ubuntu-22.04.deb",
@@ -49,7 +49,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 92
+            "totalDownloads": 94
         },
         {
             "tag": "1.21.2-rc.1",
