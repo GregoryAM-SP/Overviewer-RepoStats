@@ -145,7 +145,7 @@
                 {
                     "name": "overviewer-v1.21.0-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.0/overviewer-v1.21.0-windows.zip",
-                    "download_count": 442
+                    "download_count": 443
                 },
                 {
                     "name": "overviewer-v1.21.0-LINUX.tar.xz",
@@ -173,7 +173,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 753
+            "totalDownloads": 754
         },
         {
             "tag": "v1.20.4",
