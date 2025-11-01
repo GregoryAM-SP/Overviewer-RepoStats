@@ -16,7 +16,7 @@
                 {
                     "name": "overviewer-1.21.3-rc.1-linux.tar.xz",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.3-rc.1/overviewer-1.21.3-rc.1-linux.tar.xz",
-                    "download_count": 3
+                    "download_count": 4
                 },
                 {
                     "name": "overviewer-1.21.3-rc.1-x86_64.AppImage",
@@ -26,12 +26,12 @@
                 {
                     "name": "overviewer-1.21.3-rc.1-x86_64-ubuntu-24.04.deb",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.3-rc.1/overviewer-1.21.3-rc.1-x86_64-ubuntu-24.04.deb",
-                    "download_count": 0
+                    "download_count": 2
                 },
                 {
                     "name": "overviewer-1.21.3-rc.1-x86_64-ubuntu-22.04.deb",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.3-rc.1/overviewer-1.21.3-rc.1-x86_64-ubuntu-22.04.deb",
-                    "download_count": 0
+                    "download_count": 1
                 },
                 {
                     "name": "the-minecraft-overviewer-1.21.3-rc.1.zip",
@@ -44,7 +44,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 18
+            "totalDownloads": 22
         },
         {
             "tag": "1.21.2-rc.2",
@@ -150,7 +150,7 @@
                 {
                     "name": "overviewer-v1.21.1-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.1/overviewer-v1.21.1-windows.zip",
-                    "download_count": 279
+                    "download_count": 280
                 },
                 {
                     "name": "overviewer-v1.21.1-LINUX.tar.xz",
@@ -178,7 +178,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 420
+            "totalDownloads": 421
         },
         {
             "tag": "1.21.0",
