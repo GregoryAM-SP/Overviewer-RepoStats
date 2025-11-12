@@ -11,12 +11,12 @@
                 {
                     "name": "overviewer-1.21.3-rc.1-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.3-rc.1/overviewer-1.21.3-rc.1-windows.zip",
-                    "download_count": 18
+                    "download_count": 19
                 },
                 {
                     "name": "overviewer-1.21.3-rc.1-linux.tar.xz",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.3-rc.1/overviewer-1.21.3-rc.1-linux.tar.xz",
-                    "download_count": 6
+                    "download_count": 8
                 },
                 {
                     "name": "overviewer-1.21.3-rc.1-x86_64.AppImage",
@@ -26,12 +26,12 @@
                 {
                     "name": "overviewer-1.21.3-rc.1-x86_64-ubuntu-24.04.deb",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.3-rc.1/overviewer-1.21.3-rc.1-x86_64-ubuntu-24.04.deb",
-                    "download_count": 3
+                    "download_count": 4
                 },
                 {
                     "name": "overviewer-1.21.3-rc.1-x86_64-ubuntu-22.04.deb",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.3-rc.1/overviewer-1.21.3-rc.1-x86_64-ubuntu-22.04.deb",
-                    "download_count": 3
+                    "download_count": 4
                 },
                 {
                     "name": "the-minecraft-overviewer-1.21.3-rc.1.zip",
@@ -44,7 +44,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 32
+            "totalDownloads": 37
         },
         {
             "tag": "1.21.2-rc.2",
@@ -64,7 +64,7 @@
                 {
                     "name": "overviewer-1.21.2-rc.2-x86_64-ubuntu-24.04.deb",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.2-rc.2/overviewer-1.21.2-rc.2-x86_64-ubuntu-24.04.deb",
-                    "download_count": 20
+                    "download_count": 21
                 },
                 {
                     "name": "overviewer-1.21.2-rc.2-x86_64-ubuntu-22.04.deb",
@@ -92,7 +92,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 192
+            "totalDownloads": 193
         },
         {
             "tag": "1.21.2-rc.1",
@@ -102,7 +102,7 @@
                 {
                     "name": "overviewer-1.21.2-rc.1-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.2-rc.1/overviewer-1.21.2-rc.1-windows.zip",
-                    "download_count": 14
+                    "download_count": 16
                 },
                 {
                     "name": "overviewer-1.21.2-rc.1-x86_64-linux.AppImage",
@@ -140,7 +140,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 37
+            "totalDownloads": 39
         },
         {
             "tag": "1.21.1",
@@ -150,12 +150,12 @@
                 {
                     "name": "overviewer-v1.21.1-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.1/overviewer-v1.21.1-windows.zip",
-                    "download_count": 292
+                    "download_count": 294
                 },
                 {
                     "name": "overviewer-v1.21.1-LINUX.tar.xz",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.1/overviewer-v1.21.1-LINUX.tar.xz",
-                    "download_count": 102
+                    "download_count": 103
                 },
                 {
                     "name": "overviewer-v1.21.1-x86_64-ubuntu-22.04.deb",
@@ -178,7 +178,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 437
+            "totalDownloads": 440
         },
         {
             "tag": "1.21.0",
