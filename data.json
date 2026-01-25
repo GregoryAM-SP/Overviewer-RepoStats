@@ -1,7 +1,7 @@
 {
-    "watchers": 133,
+    "watchers": 134,
     "forks": 15,
-    "stars": 133,
+    "stars": 134,
     "tags": [
         {
             "tag": "1.21.3-rc.1",
@@ -155,7 +155,7 @@
                 {
                     "name": "overviewer-v1.21.1-LINUX.tar.xz",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.1/overviewer-v1.21.1-LINUX.tar.xz",
-                    "download_count": 121
+                    "download_count": 122
                 },
                 {
                     "name": "overviewer-v1.21.1-x86_64-ubuntu-22.04.deb",
@@ -178,7 +178,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 543
+            "totalDownloads": 544
         },
         {
             "tag": "1.21.0",
