@@ -231,7 +231,7 @@
                 {
                     "name": "overviewer-v1.20.4-LINUX.tar.xz",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/v1.20.4/overviewer-v1.20.4-LINUX.tar.xz",
-                    "download_count": 163
+                    "download_count": 164
                 },
                 {
                     "name": "the-minecraft-overviewer-v1.20.4.zip",
@@ -244,7 +244,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 632
+            "totalDownloads": 633
         },
         {
             "tag": "v1.20.3",
