@@ -150,7 +150,7 @@
                 {
                     "name": "overviewer-v1.21.1-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.1/overviewer-v1.21.1-windows.zip",
-                    "download_count": 455
+                    "download_count": 457
                 },
                 {
                     "name": "overviewer-v1.21.1-LINUX.tar.xz",
@@ -178,7 +178,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 677
+            "totalDownloads": 679
         },
         {
             "tag": "1.21.0",
@@ -346,7 +346,7 @@
                 {
                     "name": "overviewer-1.19.3.2.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/v1.19.3.2/overviewer-1.19.3.2.zip",
-                    "download_count": 22
+                    "download_count": 25
                 },
                 {
                     "name": "the-minecraft-overviewer-v1.19.3.2.zip",
@@ -359,7 +359,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 22
+            "totalDownloads": 25
         },
         {
             "tag": "v1.19.3.1",
@@ -438,7 +438,7 @@
                 {
                     "name": "overviewer-0.19.15.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/v1.19.15/overviewer-0.19.15.zip",
-                    "download_count": 17
+                    "download_count": 18
                 },
                 {
                     "name": "the-minecraft-overviewer-v1.19.15.zip",
@@ -451,7 +451,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 17
+            "totalDownloads": 18
         }
     ]
 }
