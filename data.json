@@ -1,7 +1,7 @@
 {
-    "watchers": 144,
+    "watchers": 146,
     "forks": 13,
-    "stars": 144,
+    "stars": 146,
     "tags": [
         {
             "tag": "1.21.3-rc.1",
@@ -150,7 +150,7 @@
                 {
                     "name": "overviewer-v1.21.1-windows.zip",
                     "url": "https://github.com/GregoryAM-SP/The-Minecraft-Overviewer/releases/download/1.21.1/overviewer-v1.21.1-windows.zip",
-                    "download_count": 535
+                    "download_count": 538
                 },
                 {
                     "name": "overviewer-v1.21.1-LINUX.tar.xz",
@@ -178,7 +178,7 @@
                     "download_count": 0
                 }
             ],
-            "totalDownloads": 775
+            "totalDownloads": 778
         },
         {
             "tag": "1.21.0",
